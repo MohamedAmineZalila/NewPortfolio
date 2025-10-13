@@ -1,0 +1,16 @@
+.dark-mode svg text {
+  fill: white !important;
+}
+
+/* Dark mode contribution text */
+.dark-mode .react-activity-calendar__count {
+  color: white !important;
+}
+
+.dark-mode .react-activity-calendar__legend-text {
+  color: white !important;
+}
+
+.dark-mode .react-activity-calendar__legend-colors span {
+  color: white !important;
+}

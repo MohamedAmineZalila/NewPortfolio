@@ -1,0 +1,65 @@
+// react-icons
+import {
+  SiReact,
+  SiNextdotjs,
+  SiJavascript,
+  SiTypescript,
+  SiTailwindcss,
+  SiHtml5,
+  SiCss3,
+  SiExpress,
+  SiMongodb,
+  SiMysql,
+  SiGit,
+  SiPostman,
+  SiFigma,
+} from "react-icons/si";
+
+import { FaGithub } from "react-icons/fa";
+
+// lucide-react
+import {
+  Briefcase,
+  Code,
+  BookOpen,
+  ToolCase,
+  ExternalLink,
+  Github,
+  GraduationCap,
+  ShoppingCart,
+  BriefcaseBusinessIcon,
+  Mail,
+  Rocket,
+  User,
+  Users,
+} from "lucide-react";
+
+export {
+  SiReact,
+  SiNextdotjs,
+  SiJavascript,
+  SiTypescript,
+  SiTailwindcss,
+  SiHtml5,
+  SiCss3,
+  SiExpress,
+  SiMongodb,
+  SiMysql,
+  SiGit,
+  SiPostman,
+  SiFigma,
+  FaGithub,
+  Briefcase,
+  Code,
+  BookOpen,
+  ToolCase,
+  ExternalLink,
+  Github,
+  GraduationCap,
+  ShoppingCart,
+  BriefcaseBusinessIcon,
+  Mail,
+  Rocket,
+  User,
+  Users,
+};
