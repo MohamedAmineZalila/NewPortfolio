@@ -1,5 +1,6 @@
 import { Award, Briefcase, Code, Rocket, Star, User } from "lucide-react";
 import GitHubCalendar from "react-github-calendar";
+import Testimonials from "./Testimonials";
 import "../styles/About.css";
 import React from "react";
 
@@ -186,6 +187,7 @@ function About({ themeClasses, isDarkMode, isVisible }) {
           </div>
         </div>
       </div>
+      <Testimonials themeClasses={themeClasses} isDarkMode={isDarkMode} />
       <div
         className={`rounded-2xl p-4 shadow-lg border transform hover:scale-105 transition-all duration-500 hover:shadow-2xl ${themeClasses.cardBg} ${themeClasses.border}`}
       >
