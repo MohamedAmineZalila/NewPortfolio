@@ -1,4 +1,4 @@
-# Mohamed Amin – Portfolio Website
+# Mohamed Amine – Portfolio Website
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -8,6 +8,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 This is my personal portfolio website built with **React** and **Vite**, designed to showcase my skills, projects, and professional experience. The site features a modern design, smooth animations, and a responsive layout for an optimal experience on all devices.
+
+Check it out on : **www.medaminezalila.com**
 
 ## 🚀 Features
 
