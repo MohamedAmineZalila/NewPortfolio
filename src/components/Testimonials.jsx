@@ -40,7 +40,6 @@ function Testimonials({ themeClasses, isDarkMode }) {
         Testimonials
       </h2>
 
-      {/* Container mimicking the About section's grid */}
       <div className="grid md:grid-cols-2 gap-8 justify-center">
         <div className={`md:col-span-2`}>
           <div
